@@ -1,0 +1,15 @@
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\Demo.Data.dll
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\Demo.Data.pdb
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\obj\Debug\Demo.Data.csproj.AssemblyReference.cache
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\obj\Debug\Demo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\obj\Debug\Demo.Data.dll
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\obj\Debug\Demo.Data.pdb
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\System.Web.Http.dll
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\System.Web.Http.xml
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Ryan\Documents\asp.net-mvc-demo\DemoSolution\Demo.Data\obj\Debug\Demo.Data.csproj.CopyComplete

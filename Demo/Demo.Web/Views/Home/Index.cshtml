@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Demo.Data.Models.Player>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="active">
+    <h1>
+        Welcome to Ryan's Game
+    </h1>
+    <div>
+        @foreach (var player in Model)
+        {
+            <li>@player.Name</li>
+        }
+    </div>
+</div>
